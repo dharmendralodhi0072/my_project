@@ -1,2 +1,2 @@
-# my_project
+# Company api
 CompanyAPI
